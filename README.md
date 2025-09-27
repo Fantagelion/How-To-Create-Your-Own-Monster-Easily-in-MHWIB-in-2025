@@ -3,3 +3,7 @@ Howdy! Whether you're here because you're creating a huge mod that adds countles
 
 ## Requirements
 - A copy of Monster Hunter World:Iceborne, PC version (preferably 15.xx.xx because these are the most used versions, and include Fatalis. My recommendation is 15.11.01 or 15.22 (you'll see later why)).
+
+- https://www.nexusmods.com/monsterhunterworld/mods/1982?tab=files
+
+- 
