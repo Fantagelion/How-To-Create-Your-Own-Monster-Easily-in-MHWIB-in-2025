@@ -6,4 +6,4 @@ Howdy! Whether you're here because you're creating a huge mod that adds countles
 
 - The Stracker's Loader made for your game version : https://www.nexusmods.com/monsterhunterworld/mods/1982?tab=files. Find the download that says is for your game version. This is because using an ulterior or anterior version will break the monster and quest loader, absolutely required to load custom quests and monsters.
 
-- Stracker's move subspecies program : makes creating a new subspecies easy, instead of having to rename every file.
+- Stracker's move subspecies program (https://github.com/Strackeror/MHW-UtilityScripts/releases/download/0.3/move-subspecies.exe) : makes creating a new subspecies easy, instead of having to rename every file.
